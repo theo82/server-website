@@ -157,3 +157,13 @@ button:focus {
 /* h1 {
   font-family: sans-serif;
 } */
+#key-features {
+  background-color: #ff1b68;
+  margin-top: 80px;
+  padding: 16px;
+}
+
+#key-features .section-title {
+  color: white;
+  margin: 32px;
+}
