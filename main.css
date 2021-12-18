@@ -41,6 +41,16 @@
   }
 }
 
+@media (min-width: 60rem) {
+  #product-overview {
+    height: 80vh;
+    background-position: 50% 35%;
+  }
+  #product-overview h1 {
+    font-size: 5rem;
+  }
+}
+
 .plan__list {
   width: 80%;
   margin: auto;
